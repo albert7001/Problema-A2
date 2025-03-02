@@ -1,0 +1,1 @@
+Código utilizado para el análisis de la cadena de espines 1D. El primer archivo resuelve exactamente el sistema, por lo que no se recomienda introducir un número muy elevado de espines. El archivo "generalizado" posee la solución analítica del modelo de Ising para un número elevado de espines.
