@@ -1,1 +1,2 @@
 Código utilizado para el análisis de la cadena de espines 1D. El primer archivo resuelve exactamente el sistema, por lo que no se recomienda introducir un número muy elevado de espines. El archivo "generalizado" posee la solución analítica del modelo de Ising para un número elevado de espines.
+La simulación del modelo 2D es original de www.mathworks.com/matlabcentral/fileexchange/79544-montecarlo-simulation-of-ising-model. He añadido el cálculo de la magnetización y traducido la explicación.
